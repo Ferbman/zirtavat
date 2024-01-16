@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657342568810",
+    "project_id": "zirtavat-7f30d",
+    "storage_bucket": "zirtavat-7f30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657342568810:android:cddf3d9b376584af68ad13",
+        "android_client_info": {
+          "package_name": "com.example.zirtavat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0wbYsq7miPi9-a4-wda69B1NtHmIYyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
